@@ -1,0 +1,14 @@
+.container>h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+body{
+    background-color: bisque;
+}
+.container__input{
+    text-align: center;
+    
+}
+table{
+    margin: 20px auto;
+}
